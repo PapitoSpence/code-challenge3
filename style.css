@@ -10,3 +10,7 @@ font-size: 26px;
 font-family: 'Trebuchet MS','Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans' Arial, sans-serif;
 font-weight: 900;
 }
+main {
+background-color: grey;
+}
+.headers{text-align: center;}
