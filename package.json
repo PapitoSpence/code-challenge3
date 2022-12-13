@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitoSpence/code-challenge3.git"
+  },
+  "author": "Spencer Mwenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitoSpence/code-challenge3/issues"
+  },
+  "homepage": "https://github.com/PapitoSpence/code-challenge3#readme"
+}
