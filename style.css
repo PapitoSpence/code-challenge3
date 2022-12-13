@@ -1,8 +1,8 @@
 *{
-    padding: 5px;
-    margin: 5px;
+    padding: 2.5;
+    margin:2.5;
     box-sizing: border-box; 
-
+    
 }
 #header {
 text-align: center;
@@ -13,4 +13,7 @@ font-weight: 900;
 main {
 background-color: grey;
 }
-.headers{text-align: center;}
+.headers{text-align: center;
+color: tomato;
+}
+
