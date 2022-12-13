@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
     // movie details
     function displayMovieDetails(movie) {
-      const markUp = `<img src="${movie.poster}" alt="">
+      const markUp = `<img src="${movie.poster}" alt="height="300px" Width="400px">
     <div>
     <h2 id="movieTitle" class= "customtitles">${movie.title}</h2>
     <p id="description">${movie.description}</p>
