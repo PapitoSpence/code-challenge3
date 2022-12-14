@@ -54,6 +54,12 @@ To start the server: npm run start in which it should lead you to the json serve
 
 
  Run the application by using Live Server to open the application in your web browser. You can now interact with the web application by choosing movies in the displayed list and purchase tickets.
+ 
+                   OR
+                   
+ Proceed to the web application by accessing the deployed link.
+ 
+                    https://papitospence.github.io/code-challenge3/public/
 
 Technology used:
 <ul>
